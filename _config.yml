@@ -1,0 +1,14 @@
+layout_spectrum: 0.04121864
+color:
+  saturation: 0.9032258
+  lightness: 0.781362
+  brandStrength: 0.5232975
+  brandColors:
+    - '#0191A3'
+    - '#012E3A'
+    - '#FFFFFF'
+    - '#5CC7E0'
+    - '#78A44B'
+  rhythmicContrast: 0.8914808
+typography_spectrum: 0.3960573
+name: Butter Collar
